@@ -1,0 +1,177 @@
+.headimage {
+    position: relative;
+    width: 100%;
+    height: 320px;
+}
+.home {
+	margin-right: 40px;
+    color:#fff;
+}
+.navul {
+    justify-content: space-between;
+    display: flex;
+    position: absolute;
+	font-size: 15px;
+    right: 30px;
+    top: 30px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+.hometext {
+    font-size: 18px;
+    color: #fff;
+    position: absolute;
+    top: 30px;
+    margin-left: 100px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+.aboutus-txt {
+    width: 200px;
+    height: 100px;
+    font-size: 42px;
+    color: #fff;
+    position: absolute;
+    top: 100px;
+    margin-left: 93px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+.hometap {
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    font-size: 15px;
+    margin-left: 95px;
+    top: 200px;
+    position: absolute;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+.hometap2 {
+    width: 50px;
+    height: 20px;
+    color: #fff;
+    font-size: 15px;
+    margin-left: 150px;
+    top: 200px;
+    position: absolute;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+.infodiv-text1 {
+    color: #5863F8;
+    font-size: 18px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 60px;
+    height: 50px;
+}
+.infodiv-text2 {
+    color: black;
+    font-size: 42px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    margin-left: 100px;
+    width: 300px;
+    height: 30px;
+}
+.infodiv-text3 {
+    color: black;
+    font-size: 16px;
+    margin-left: 100px;
+    margin-top: 60px;
+    width: 350px;
+    height: 30px;
+}
+.readme {
+    width: 184px;
+    height: 50px;
+    position: relative;
+    top: 20px;
+    margin-left: 50px;
+}
+.readmore {
+    position: absolute;
+    margin-left: 100px;
+    top: 35px;
+    color: #fff;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+.photos{
+    width: 600px;
+    margin-left: 700px;
+    position: relative;
+    bottom: 200px;
+    height: 180px;
+}
+.photo1 {
+    width: 260px;
+}
+.photo2 {
+    width: 260px;
+}
+.photo3 {
+    width: 525px;
+}
+.footerimg {
+    width: 100%;
+    height: 612px;
+    position: relative;
+    margin-top: 150px;
+}
+.aboutus2 {
+    width: 200px;
+    height: 100px;
+    font-size: 22px;
+    color: #5863F8;
+    position: absolute;
+    top: 1000px;
+    margin-left: 150px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+.footertext {
+    font-size: 42px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    width: 300px;
+    margin-left: 150px;
+    position: absolute;
+    top: 1050px;
+    color: #fff;
+}
+.blocks-div {
+    display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 100%;
+    position: absolute;
+    top: 1160px;
+}
+.blocks {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	width: 300px;
+	height: 400px;
+	background: #FFFFFF;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.blockimgs {
+	margin-top: 88px;
+	margin-bottom: 55px;
+}
+.blockinfo {
+	font-size: 22px;
+	color: black;
+	margin-bottom: 12px;
+	font-family: 'Sofia Sans Condensed', sans-serif;
+}
+.blockinfo-text {
+	width: 250px;
+	height: 62px;
+	text-align: center;
+	text-indent: 20px;
+	line-height: 26px;
+	font-size: 14px;
+	color: #B1B1B1;
+	margin-bottom: 12px;
+}
